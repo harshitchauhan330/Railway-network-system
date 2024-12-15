@@ -1,0 +1,31 @@
+IL GreenLine
+StationA
+StationB
+StationC
+
+IL BlueLine
+StationD
+StationE
+StationF
+
+IH GreenLine
+101
+StationA 08:00
+StationB 08:30
+StationC 09:00
+
+IH BlueLine
+102
+StationD 09:15
+StationE 09:45
+StationF 10:15
+
+CL GreenLine
+
+CL BlueLine
+
+CH GreenLine
+
+CH BlueLine
+
+TA
